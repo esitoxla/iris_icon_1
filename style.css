@@ -187,10 +187,12 @@ footer {
 .footer-bottom{
     display: flex;
     flex-direction: row;
-    column-gap: 20px;
+    justify-content: space-between;
+    column-gap: 10px;
     height: 20rem;
     font-size: 1rem;
     background-color: black;
     color: white;
     padding: 100px;
 }
+
