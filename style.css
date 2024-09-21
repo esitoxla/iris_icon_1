@@ -196,3 +196,10 @@ footer {
     padding: 100px;
 }
 
+
+.copy-right{
+    color: white;
+    padding: 40px;
+    text-align: center;
+    background-color: black;
+}
